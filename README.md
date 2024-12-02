@@ -2,5 +2,5 @@
 - 👁️ My name is Harlon Hutchison.
 - 👀 I’m interested in programming, leadership, and business intelligence ...
 - 🌱 I’m currently revamping a PWA I have already created...
-- 📫 You can reach me via LinkedIn harlon Hutchison 
+- 📫 You can reach me via in/harlon-hutchison-356252318
 - ⚡ Fun fact: ... I enjoy data-driven projects!
