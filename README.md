@@ -1,4 +1,2 @@
-- 👁️ My name is Harlon Hutchison.
-- 👀 I’m interested in programming, leadership, credit, and business intelligence ...
-- ⚡ Fun fact: ... I enjoy data-driven projects!
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,go,arduino,linkedin,linux,kali,datascience)](https://skillicons.dev)
+- 👁️ My name is Harlon_Hutchison
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,go,arduino,linkedin,kali)](https://skillicons.dev)
