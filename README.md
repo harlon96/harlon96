@@ -1,3 +1,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,go,arduino,github,linkedin,kali,git,discord,instagram)](https://skillicons.dev)
 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.5.0
