@@ -1,10 +1,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,go,arduino,linkedin,kali,git)](https://skillicons.dev)
+
+
+
 - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+    github_user_name: ${{ gthub.comharlon96 }}
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
