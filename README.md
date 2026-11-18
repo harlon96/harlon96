@@ -11,4 +11,4 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=kali,vscode,Linkedin,instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,vscode,LinkedIn,instagram)](https://skillicons.dev)
