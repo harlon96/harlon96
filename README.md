@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,go,excel,linkedin,kali,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,go,linkedin,kali,vscode)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
